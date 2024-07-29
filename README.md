@@ -1,3 +1,4 @@
+```bash
 *, *::before, *::after{
     box-sizing: border-box;
 }
@@ -33,3 +34,4 @@ a{
     width: 100%;
     background-color: transparent;
 }
+```
